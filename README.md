@@ -1,1 +1,1 @@
-# show-do-milhao-beta
+Programa que simula um famoso show de TV brasileiro.
